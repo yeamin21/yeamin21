@@ -30,7 +30,7 @@ I am Yeamin Mahmud, Pythonista, React-Django full stack developer.
             src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
         </td>
         <td>
-            <img src="https://miro.medium.com/max/4000/1*_FFpkCWD-KwQmc7oevCRBQ.jpeg"/>
+            <img object-fit="contain" src="https://miro.medium.com/max/4000/1*_FFpkCWD-KwQmc7oevCRBQ.jpeg"/>
         </td>
         <td>
         <img
@@ -39,7 +39,7 @@ I am Yeamin Mahmud, Pythonista, React-Django full stack developer.
     </tr>
 </table>
 <p>
-<a href="https://yeamin21.github.io">
+<a  href="https://yeamin21.github.io">
 yeamin21.github.io</a>
 </p>
 <style>
